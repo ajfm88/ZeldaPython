@@ -1,4 +1,4 @@
-import pygame
+import pygame 
 
 class Weapon(pygame.sprite.Sprite):
 	def __init__(self,player,groups):
